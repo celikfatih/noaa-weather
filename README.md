@@ -35,7 +35,7 @@ df_w = get_bulk_weather_in_station(dataset, location, s_date, e_date, n_token)
 ![alt_text](images/df_w.png)
 
 
-For more information about abbreviations: [click here](ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt).
+For more information about abbreviations: ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt
 
 
 
